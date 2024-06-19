@@ -102,7 +102,7 @@ export const members = [
     image:
       "https://res.cloudinary.com/df5hitkbj/image/upload/v1693141355/WhatsApp_Image_2023-08-27_at_18.31.44_bcdpq4.jpg",
     name: "Pradeepto Sarkar",
-    position: "Founder & Ex-President",
+    position: "Founder",
     team: "SC",
     github: "https://github.com/pradeeptosarkar",
     linkedin: "https://www.linkedin.com/in/pradeeptosarkar",
@@ -111,15 +111,14 @@ export const members = [
   },
 
   {
+    name: "Pranav Barthwal",
     image:
-      "https://res.cloudinary.com/df5hitkbj/image/upload/v1693144357/WhatsApp_Image_2023-08-27_at_19.22.07_aar0ka.jpg",
-    name: "Anushka Singh",
-    position: "President",
-    github: "https://github.com/anu30singh",
-    linkedin: "https://www.linkedin.com/in/anushka30singh/",
-    instagram: "https://instagram.com/anu_30singh?igshid=ZDdkNTZiNTM=",
-    twitter: "https://twitter.com/Anushka3007",
-  },
+      "https://res.cloudinary.com/df5hitkbj/image/upload/v1699865734/PranavBarthwal_1_ycli1h.jpg",
+    position: "President | Open Source Maintainer",
+    github: "https://github.com/PranavBarthwal",
+    linkedin: "https://www.linkedin.com/in/pranav-barthwal-b1a3631ba",
+    instagram: "https://instagram.com/pranavbarthwal_",
+  },,
 
   {
     image:
@@ -340,16 +339,6 @@ export const members = [
     github: "https://github.com/DikshaDhasmana",
     linkedin: "https://www.linkedin.com/in/diksha-sharma-1650b1258",
     instagram: "",
-  },
-
-  {
-    name: "Pranav Barthwal",
-    image:
-      "https://res.cloudinary.com/df5hitkbj/image/upload/v1699865734/PranavBarthwal_1_ycli1h.jpg",
-    position: "Junior Council",
-    github: "https://github.com/PranavBarthwal",
-    linkedin: "https://www.linkedin.com/in/pranav-barthwal-b1a3631ba",
-    instagram: "https://instagram.com/pranavbarthwal_",
   },
 
   {
