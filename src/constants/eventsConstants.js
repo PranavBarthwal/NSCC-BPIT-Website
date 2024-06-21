@@ -1,5 +1,10 @@
 export const PastEvents = [
     {
+        "date": "14/05/2024",
+        "name": "Appwrite - 101",
+        "image": "./img/Screenshot 2024-06-30 132306.png"
+    },
+    {
         "date": "16/03/2024 - 17/03/2024",
         "name": "HACKHAZARDS '24",
         "image": "./img/events/NSCC_62_Poster.png"

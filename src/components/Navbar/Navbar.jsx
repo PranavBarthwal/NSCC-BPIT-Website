@@ -268,8 +268,8 @@ function Navbar() {
           </NavLinks>
 
           <NavbarLinkContainer>
-            <a href="https://linktr.ee/namespacecomm" target="_blank" className="mr-6">
-              <Button>Connect with us</Button>
+            <a href="https://appwrite-suggestions-board.vercel.app/" target="_blank" className="mr-6">
+              <Button>Suggestions Board</Button>
             </a>
             <OpenLinksButton
             >
