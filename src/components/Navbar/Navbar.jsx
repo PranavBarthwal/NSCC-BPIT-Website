@@ -168,6 +168,18 @@ function Navbar() {
               </div>
             </NavbarLink>
             <NavbarLink
+              to="/jobs"
+              // onClick={handlememu}
+              className={activeNavLink === "/jobs" ? "active " : ""}
+            >
+              <div>
+                Job Board
+                {activeNavLink === "/jobs" && (
+                  <hr className="border-3 rounded-full" />
+                )}
+              </div>
+            </NavbarLink>
+            <NavbarLink
               to="/events"
               className={activeNavLink === "/events" ? "active" : ""}
             >

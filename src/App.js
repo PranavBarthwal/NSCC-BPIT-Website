@@ -93,6 +93,8 @@ import DpAlgo from "./Pages/AllResources/compProgALL/dynamicpro";
 import { ORACLECLOUD } from "./Pages/AllResources/devopsALL/oracle-cloud";
 import TechX from "./Pages/TechXcelerate/Techx";
 import Hackhazards from "./Pages/Hackhazards/Hackhazards";
+import JobBoard from "./Pages/JobBoard/JobBoard";
+import JobPostingForm from "./Pages/JobBoard/JobPostingForm";
 
 const Container = styled.div`
   scrollbar-width: none;
@@ -122,6 +124,8 @@ function App() {
               <Route path="projects" element={<Projects />} />
               <Route path="resources" element={<Resources />} />
               <Route path="techx" element={<TechX />} />
+              <Route path="jobs" element={<JobBoard />} />
+              <Route path="/jobpostingform" element={<JobPostingForm />} />
               <Route path="hackhazards" element={<Hackhazards />} />
               <Route path="webd" element={<Web />} />
               <Route path="cp" element={<CompProg />} />
